@@ -1,0 +1,29 @@
+body{
+    background-color: skyblue;
+}
+p{
+    text-align: center;
+    font-family: fantasy;
+    font-size: 50px;
+    color:  rgb(3, 89, 129);;
+}
+h1{
+    text-align: center;
+    font-family: arial;
+    color:  rgb(3, 89, 129);;
+}
+button{
+    background-color: rgb(3, 89, 129);
+    color: aliceblue;
+    border-radius: 30px;
+    font-size: 30px;
+    padding: 2%;
+    width: 33%;
+    border: 1px solid;
+    margin-bottom: 30px;
+}    
+button:hover{
+    border: 3px solid rgb(3, 89, 129);
+    background-color: skyblue;
+    color:rgb(3, 89, 129) ;
+}
